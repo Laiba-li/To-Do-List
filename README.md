@@ -17,6 +17,25 @@ A responsive and interactive **To-Do List** application that helps users manage 
 - **Validation:** Displays an error message if the input field is empty.  
 - **Responsive Design:** Works seamlessly on all devices and screen sizes.  
 
+## Screenshots
+
+### Light Theme
+![Light Theme](Screenshots/light-theme.png)
+
+### Dark Theme
+![Dark Theme](Screenshots/dark-theme.png)
+
+### Task Actions
+- Adding a task:
+![Add Task](Screenshots/Add-task.png)
+
+- Completed task (checkbox checked):
+![Completed Task](Screenshots/Completed-task.png)
+
+- Deleting a task (after deletion):
+![Delete Task](Screenshots/Deleted-task.png)
+
+
 
 ## 🛠 Technologies Used
 
@@ -30,7 +49,7 @@ A responsive and interactive **To-Do List** application that helps users manage 
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Laiba-li/To-Do-List.git
    ```
 2. Open the `index.html` file in your web browser.
 3. Start adding tasks, toggle theme, and manage your tasks.
