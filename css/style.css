@@ -1,0 +1,47 @@
+.card-custom{
+  max-width: 500px;
+}
+/* Dark mode */
+body.dark-mode {
+  background-color: #111827 !important;
+  color: #f9fafb !important;
+}
+
+body.dark-mode .h4 {
+  color: #f9fafb !important;
+}
+
+body.dark-mode .card {
+  background-color: #1f2937 !important;
+}
+
+body.dark-mode .form-control {
+  background-color: #1f2937 !important;
+  color: #f9fafb !important;
+  border-color: #374151 !important;
+}
+
+body.dark-mode ::placeholder {
+  color: #9ca3af !important;
+  opacity: 1;
+}
+
+body.dark-mode .btn-primary {
+  background-color: #3b82f6 !important;
+  border-color: #3b82f6 !important;
+}
+
+body.dark-mode .btn-primary:hover {
+  background-color: #2563eb !important;
+}
+
+body.dark-mode .list-group-item {
+  background-color: #1f2937 !important;
+  color: #f9fafb !important;
+  border-color: #374151 !important;
+}
+
+.completed {
+  text-decoration: line-through;
+  opacity: 0.6;
+}
